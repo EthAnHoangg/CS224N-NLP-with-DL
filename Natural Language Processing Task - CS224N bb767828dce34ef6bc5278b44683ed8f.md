@@ -25,8 +25,8 @@ The purpose of this project is to explore the field of NLP and apply the techniq
 
 # Content
 
-[Assignment 01](https://www.notion.so/Assignment-01-68d9059f69ed483396bdd410e5990993)
+[Assignment 01](Natural%20Language%20Processing%20Task%20-%20CS224N%20bb767828dce34ef6bc5278b44683ed8f/Assignment%2001%2068d9059f69ed483396bdd410e5990993.md)
 
-[Assignment 02](https://www.notion.so/Assignment-02-c9a9e4feeae1481ca72ad62d955ac98c)
+[Assignment 02](Natural%20Language%20Processing%20Task%20-%20CS224N%20bb767828dce34ef6bc5278b44683ed8f/Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c.md)
 
-[Assignment 03](https://www.notion.so/Assignment-03-59c6235cac224f24b8f93684350a42a9)
+[Assignment 03](Natural%20Language%20Processing%20Task%20-%20CS224N%20bb767828dce34ef6bc5278b44683ed8f/Assignment%2003%2059c6235cac224f24b8f93684350a42a9.md)
