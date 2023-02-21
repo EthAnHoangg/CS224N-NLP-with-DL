@@ -169,15 +169,3 @@ def skipgram(currentCenterWord, windowSize, outsideWords, word2Ind,
 ## ****Dependency Parsing****
 
 [https://users.soict.hust.edu.vn/huonglt/UNLP/5.3_Dependency Parsing.pdf](https://users.soict.hust.edu.vn/huonglt/UNLP/5.3_Dependency%20Parsing.pdf)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%201.png)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%202.png)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%203.png)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%204.png)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%205.png)
-
-![Untitled](Assignment%2002%20c9a9e4feeae1481ca72ad62d955ac98c/Untitled%206.png)
